@@ -30,7 +30,7 @@ tailwind.config.js       — дизайн-токени ReadSpace
 
 ```
 npm install
-npm run build
+npm run build:css
 ```
 
 ## Демо
