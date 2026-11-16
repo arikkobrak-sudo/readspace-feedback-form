@@ -36,7 +36,7 @@ npm run build:css
 ## Демо
 
 - GitHub: https://github.com/arikkobrak-sudo/readspace-feedback-form
-- Vercel: _посилання буде додано після деплою_
+- Vercel: https://readspace-feedback-form.vercel.app/
 
 ## Автор
 
